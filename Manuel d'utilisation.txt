@@ -1,0 +1,23 @@
+Manuel d’utilisation :
+Dans « The Legendary World : Eldorado » le joueur n’a qu’un objectif à accomplir: devenir plus fort. 
+Pour cela il devra s’aventurer d’en un nouveau monde rempli d’ennemis féroce qui 
+lui permettront de gagner en puissance et devenir le maitre de ce nouveau monde. 
+
+Utilisation :
+ 
+Inventaire => Pour ouvrir l’inventaire le joueur appuie sur la touche « E ».  
+              Une fois l’inventaire ouvert il pourra contempler son butin mais également 
+              l’utiliser en cliquant dessus.
+
+Marchand =>   Les marchands sont répartis à divers endroit du niveau et permettront au joueur de dépenser 
+			   son argent durement gagner pour ainsi acquérir de nouveau artéfacts. Pour accéder au menu du marchand, 
+              le joueur doit se placer devant et appuyer sur la touche « F » du clavier.
+
+Barre d’accès rapide => La barre d’accès rapide permet a l’utilisateur d’utiliser les objets équiper précédemment 
+                        dans l’inventaire. Il doit simplement sélectionner la case de la barre correspondant a l’item 
+                        désiré grâce au touche numérique allant de 1 à 5 et ensuite réaliser un clique gauche.
+
+Attaque => Pour attaquer, le joueur doit faire un clique gauche avec ca souris.
+
+Téléporteurs => Pour rentrer dans les maisons et utiliser les bateaux, il faut se placer respectivement sur
+                l'entrée et le bateau puis appuyer sur "T".

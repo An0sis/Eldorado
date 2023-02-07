@@ -1,0 +1,12 @@
+Bibliothèques :
+
+Photon
+PlayFab
+
+
+Sources :
+
+https://unity.com/fr => unity
+https://playfab.com => comptes et sauvergardes
+https://www.photonengine.com => multijoueur
+https://gif-superretroworld.itch.io => graphismes niveau

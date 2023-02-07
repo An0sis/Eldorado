@@ -1,0 +1,4 @@
+Installation :
+Exécuter le fichier “setup.exe” présent à la racine de la clé USB
+Désinstallation :
+Exécuter le fichier « unins000.exe » présent dans le dossier du jeu choisis pendant l’installation

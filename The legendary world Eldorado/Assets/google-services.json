@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722568743843",
+    "project_id": "the-legendary-world-eldorado",
+    "storage_bucket": "the-legendary-world-eldorado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722568743843:android:5d9a71f2dfeca0f10be816",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ThelegendarywolrdEldorado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722568743843-6clehs4qj0a4g54u8bftbu6v08pfgad0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1K7ykzVGopLiUHwxfd6QIcs8iN08dno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722568743843-6clehs4qj0a4g54u8bftbu6v08pfgad0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

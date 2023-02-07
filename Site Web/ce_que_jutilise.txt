@@ -1,0 +1,15 @@
+asset : https://gif-superretroworld.itch.io
+gui : https://assetstore.unity.com/packages/2d/gui/simple-fantasy-gui-99451
+multiplayer : https://www.photonengine.com
+service backend : https://playfab.com
+
+doc photon : https://doc.photonengine.com/en-us/realtime/current/getting-started/quick-start
+doc playfab : https://docs.microsoft.com/en-us/gaming/playfab/sdks/unity3d/quickstart
+doc photon + playfab : https://docs.microsoft.com/en-us/gaming/playfab/sdks/photon/quickstart
+playlist youtube playfab : https://www.youtube.com/playlist?list=PL1aAeF6bPTB4oP-Tejys3n8P8iXlj7uj-
+
+beaucoup de forums, pages de docs et tuto youtub
+https://unity.com/fr => unity
+https://playfab.com => comptes et sauvergardes
+https://www.photonengine.com => multijoueur
+https://gif-superretroworld.itch.io => graphismes niveau

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5afcb6012123d3b42a0a1e5195b92b4a, type: 3}
+  m_Name: StrengthSword
+  m_EditorClassIdentifier: 
+  type: Sword
+  itemName: StrengthSword
+  itemDest: 'Makes really much damage but is slower '
+  itemSprite: {fileID: 21300000, guid: 6dfdf7dbfa92c534dbf9dbf306dc49ac, type: 3}
+  itemPrice: 800
+  Id: 16
+  maxStack: 1
+  maxDamage: 200
+  minDamage: 80
+  damage: 120
+  range: 3
+  loadingTime: 5
+  potionType: 
+  potionAmount: 0
