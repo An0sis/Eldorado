@@ -1,3 +1,5 @@
+The legendary world: Eldorado is a MMORPG created during the second semester of the first year at EPITA in a group of four students.
+
 Fichier du projet de S2 "The legendary world: Eldorado"
 
 Architecture de fichiers :
